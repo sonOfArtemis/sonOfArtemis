@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sonOfArtemis
+- 👀 I’m interested in Web Development and Design
+- 🌱 I’m currently learning HTML(Great), CSS(Good), JS(Beginner), PHP/MySQL(Beginner)
+- 💞️ I’m looking to collaborate on Website Projects
+- 📫 How to reach me: https://www.linkedin.com/in/troyal-taylor-cs/ 
